@@ -61,7 +61,7 @@ Styling for extra menu buttons
 #pieceNum {
     margin-right: -1px;
     margin-left: -1px;
-    float: left;
+    float: right;
     width: 30px;
     background-color: #fff;
     z-index: 80;
