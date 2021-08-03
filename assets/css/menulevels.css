@@ -132,7 +132,7 @@ Positioning of Pianokey.css and other menu options (Form, Key buttons)
 
 #prelude .lvlONEBUTTON {
     /*prelude Button specifics*/
-    top: 57px;
+    top: 39px;
     display: none;
     box-shadow: inset 0 0 30px #C42026;
     border-top-left-radius: 15px;
@@ -140,7 +140,7 @@ Positioning of Pianokey.css and other menu options (Form, Key buttons)
 
 #fugue .lvlONEBUTTON {
     /*Fugue Button specifics*/
-    top: 57px;
+    top: 39px;
     display: none;
     box-shadow: inset 0 0 30px #C42026;
     border-top-left-radius: 15px;
@@ -159,7 +159,7 @@ Positioning of Pianokey.css and other menu options (Form, Key buttons)
 
 #modeBUT .lvlTHREEBUTTON {
     /*prelude Button specifics*/
-    top: 57px;
+    top: 39px;
     border-bottom-left-radius: 15px;
     left: 5px;
     text-align: center;
@@ -168,7 +168,7 @@ Positioning of Pianokey.css and other menu options (Form, Key buttons)
 
 #major .lvlTHREEBUTTON {
     /*prelude Button specifics*/
-    top: 57px;
+    top: 39px;
     border-bottom-left-radius: 15px;
     display: none;
     box-shadow: inset 0 0 30px #C42026;
@@ -176,7 +176,7 @@ Positioning of Pianokey.css and other menu options (Form, Key buttons)
 
 #minor .lvlTHREEBUTTON {
     /*Fugue Button specifics*/
-    top: 57px;
+    top: 39px;
     border-bottom-left-radius: 15px;
     display: none;
     box-shadow: inset 0 0 30px #C42026;
