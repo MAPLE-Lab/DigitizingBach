@@ -78,7 +78,7 @@ Styling for Score displayer and editor tabs
     display: table;
     table-layout: fixed;
     position: absolute;
-    bottom: -15px;
+    bottom: -4px;
 }
 .tab {
     display: table-cell;
