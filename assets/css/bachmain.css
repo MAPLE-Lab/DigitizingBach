@@ -227,7 +227,7 @@ note that piano and harpsichord sets are in seperate containers*/
     z-index: 1;
     left: 10px;
     width: 100%;
-    height: calc(100% - 50px);
+    height: calc(100% - 30px);
     border-radius: 20px;
     box-shadow: 3px 3px 15px #000;
 }
