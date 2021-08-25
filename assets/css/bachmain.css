@@ -67,7 +67,7 @@ note that piano and harpsichord sets are in seperate containers*/
 /*"Well-Tempered Clavier" title*/
 .logoTitle {
     position: absolute;
-    left: 450px;
+    left: 451px;
     text-align: left;
     top: 10px;
     z-index: 3;
