@@ -1,7 +1,7 @@
 /*Digitizing Bach Application
 A subset of the Emotional Piano Experiment
 MAPLE Lab, McMaster
- asd asd
+ asd 
 
 Written by Kyle Gauder
 Git Repo: https://github.com/gauderkd/DigitizingBach
@@ -67,7 +67,7 @@ note that piano and harpsichord sets are in seperate containers*/
 /*"Well-Tempered Clavier" title*/
 .logoTitle {
     position: absolute;
-    left: 449px;
+    left: 450px;
     text-align: left;
     top: 10px;
     z-index: 3;
